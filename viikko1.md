@@ -1,6 +1,6 @@
 # Esittäytytminen
 
-## *Kuka on Veera?*
+## Kuka on Veera?
 Veera on 30-vuotias jyväskyläläinen mekaniikka suunnittelija, joka päätti kouluttautua uudelleen. Hänellä on materiaalitekniikan insinöörin paperit, mutta niillä **ei** tällähetkellä saada töitä. Hänellä on neljän vuoden kokemus imutelojen suunnittelusta
 
 ### Täältä lisätietoa jyväskylästä
@@ -11,10 +11,10 @@ Veera on 30-vuotias jyväskyläläinen mekaniikka suunnittelija, joka päätti k
 
 ## *Mitä Veera Harrasta?*
 Veera Harrastaa seuraavia asioita:
- tiekoneiden kasaamista
- pelaamista
- kuntosalia
- koiran kanssa lenkkeilya
+- tiekoneiden kasaamista
+- pelaamista
+- kuntosalia
+- *koiran* kanssa lenkkeilya
 
 ## Veeran lempiruoat
 1. sushi
