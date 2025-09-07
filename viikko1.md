@@ -24,13 +24,11 @@ Veera Harrastaa seuraavia asioita:
 
 ## Miten tämän teehtävä tekeminen sujui? 
 
-| Päivämäärä | Mielentila               |
-| ---------- | ------------------------ |
-| 05/09      | Usko loppuu              |
-| 06/09      | Usko loppuu              |
-| 07/09      | Sielun myynti saatanalle |
-|            | käynyt mielessä noin     |
-|            | 10 kertaa                |
+| Päivämäärä | Mielentila                                                  |
+| ---------- | ----------------------------------------------------------- |
+| 05/09      | Usko loppuu                                                 |
+| 06/09      | Usko loppuu                                                 |
+| 07/09      | Sielun myynti **saatanalle** käynyt mielessä noin 10 kertaa |
 
 >Lopuksi
 >
